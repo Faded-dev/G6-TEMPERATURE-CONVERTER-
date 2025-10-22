@@ -133,7 +133,7 @@ select {
   } 
  
   .container { 
-    width: 80%; 
+    width: 50%; 
     height: auto;
     min-height: 30%;
     padding: 3rem; 
@@ -169,7 +169,7 @@ select {
   } 
  
   .container { 
-    width: 60%; 
+    width: 50%; 
     height: auto;
     min-height: 30%;
     padding: 3rem; 
@@ -235,7 +235,7 @@ select {
   } 
  
   .container { 
-    width: 95%; 
+    width: 55%; 
     height: auto;
     min-height: 30%;
     padding: 2rem; 
@@ -288,7 +288,7 @@ select {
   } 
  
   .container { 
-    width: 98%; 
+    width: 60%; 
     height: auto;
     min-height: 30%;
     padding: 1.5rem; 
