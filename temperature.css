@@ -134,6 +134,7 @@ select {
  
   .container { 
     width: 80%; 
+    height: auto;
     padding: 3rem; 
   } 
  
@@ -168,6 +169,7 @@ select {
  
   .container { 
     width: 60%; 
+    height: auto;
     padding: 3rem; 
     border-radius: 35px; 
   } 
@@ -232,6 +234,7 @@ select {
  
   .container { 
     width: 95%; 
+    height: auto;
     padding: 2rem; 
     border-radius: 25px; 
   } 
@@ -283,6 +286,7 @@ select {
  
   .container { 
     width: 98%; 
+    height: auto;
     padding: 1.5rem; 
   } 
  
