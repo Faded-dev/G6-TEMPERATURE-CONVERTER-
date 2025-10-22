@@ -201,7 +201,7 @@ select {
   } 
  
   input { 
-    width: 100%; 
+    width: 80%; 
     font-size: 3.5rem; 
     padding: 2rem; 
   } 
@@ -241,6 +241,8 @@ select {
     padding: 2rem; 
     border-radius: 25px; 
   } 
+
+  
  
   .nav__header--icon { 
     font-size: 8rem; 
@@ -255,7 +257,7 @@ select {
   } 
  
   input { 
-    width: 100%; 
+    width: 80%; 
     font-size: 3rem; 
     padding: 1.8rem; 
   } 
