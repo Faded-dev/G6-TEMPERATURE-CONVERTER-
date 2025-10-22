@@ -133,7 +133,7 @@ select {
   } 
  
   .container { 
-    width: 90%; 
+    width: 80%; 
     height: auto;
     min-height: 30%;
     padding: 3rem; 
@@ -169,7 +169,7 @@ select {
   } 
  
   .container { 
-    width: 90%; 
+    width: 80%; 
     height: auto;
     min-height: 30%;
     padding: 3rem; 
@@ -201,7 +201,7 @@ select {
   } 
  
   input { 
-    width: 80%; 
+    width: 95%; 
     font-size: 3.5rem; 
     padding: 2rem; 
   } 
@@ -235,7 +235,7 @@ select {
   } 
  
   .container { 
-    width: 90%; 
+    width: 80%; 
     height: auto;
     min-height: 30%;
     padding: 2rem; 
@@ -257,7 +257,7 @@ select {
   } 
  
   input { 
-    width: 80%; 
+    width: 95%; 
     font-size: 3rem; 
     padding: 1.8rem; 
   } 
@@ -290,7 +290,7 @@ select {
   } 
  
   .container { 
-    width: 90%; 
+    width: 80%; 
     height: auto;
     min-height: 30%;
     padding: 1.5rem; 
