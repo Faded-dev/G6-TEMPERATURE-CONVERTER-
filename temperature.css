@@ -142,7 +142,7 @@ select {
   .nav {
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: center;
  }
  
   .nav__header--icon { 
@@ -172,6 +172,7 @@ select {
   .convert__Btn { 
     font-size: 4.5rem; 
     padding: 2rem 15rem; 
+    justify-content: center; 
   } 
 } 
  
@@ -229,7 +230,7 @@ select {
  
   .convert__Btn { 
     width: 100%; 
-    font-size: 4rem; 
+    justify-content: center; 
     padding: 2rem 0; 
   } 
  
@@ -331,6 +332,7 @@ select {
   .convert__Btn { 
     font-size: 3rem; 
     padding: 1.5rem 0; 
+    justify-content: center;
   } 
  
   .main-result { 
