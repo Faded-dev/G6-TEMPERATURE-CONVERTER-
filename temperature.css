@@ -133,11 +133,17 @@ select {
   } 
  
   .container { 
-    width: 80%; 
+    width: 70%; 
     height: auto;
     min-height: 30%;
     padding: 3rem; 
   } 
+
+  .nav {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+ }
  
   .nav__header--icon { 
     font-size: 12rem; 
@@ -150,6 +156,13 @@ select {
   .nav__header--text h2 { 
     font-size: 5rem; 
   } 
+
+  .Select__container {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 40px;
+}
  
   input, select { 
     font-size: 3.5rem; 
