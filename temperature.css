@@ -201,7 +201,8 @@ select {
   } 
  
   input { 
-    width: 95%; 
+    width: 100%; 
+    min-width: 95%;
     font-size: 3.5rem; 
     padding: 2rem; 
   } 
@@ -257,7 +258,8 @@ select {
   } 
  
   input { 
-    width: 95%; 
+    width: 100%;
+    min-width: 95%;
     font-size: 3rem; 
     padding: 1.8rem; 
   } 
