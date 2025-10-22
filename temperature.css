@@ -153,7 +153,7 @@ select {
  
   input, select { 
     font-size: 3.5rem; 
-    padding: 3.5rem; 
+    padding: 4rem; 
   } 
  
   .convert__Btn { 
@@ -204,7 +204,7 @@ select {
     width: 90%; 
     min-width:90%;
     font-size: 3.5rem; 
-    padding: 2rem; 
+    padding: 4rem; 
   } 
  
   select { 
@@ -261,7 +261,7 @@ select {
     width: 90%;
     min-width: 90%;
     font-size: 3rem; 
-    padding: 1.8rem; 
+    padding: 3rem; 
   } 
  
   select { 
