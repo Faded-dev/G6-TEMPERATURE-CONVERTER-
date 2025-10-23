@@ -221,10 +221,9 @@ select {
  
   input { 
     width: 90%; 
-    max-width:90%;
-    justify-content: space-around;
-    font-size: 3.5rem; 
-    padding: 2rem; 
+    position: absolute; 
+    left: 50%; 
+    transform: translateX(-50%);
   } 
  
   select { 
