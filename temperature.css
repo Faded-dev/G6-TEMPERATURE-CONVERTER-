@@ -173,9 +173,9 @@ select {
  
   .convert__Btn { 
     font-size: 4.5rem; 
-    padding: 2rem 15rem;
+    
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
   } 
 } 
@@ -238,7 +238,7 @@ select {
   .convert__Btn { 
     width: 100%;
     display: flex;    
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     
   } 
