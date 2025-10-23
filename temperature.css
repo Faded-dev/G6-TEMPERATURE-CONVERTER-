@@ -159,8 +159,8 @@ select {
 
   .Select__container {
   display: flex;
-  justify-content: space-between;
-  gap: 10px;
+  justify-content: space-around;
+  gap: 15px;
   margin-bottom: 40px;
 }
  
@@ -211,7 +211,9 @@ select {
   } 
  
   .Select__container { 
-    flex-direction: row; 
+    flex-direction: row;
+    max-width: 90%;     
+    justify-content: space-around;    
     align-items: center; 
     gap: 2rem; 
   } 
