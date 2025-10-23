@@ -164,7 +164,8 @@ select {
   margin-bottom: 40px;
 }
  
-  input, select { 
+  input, select {
+    justify-content: space-around;    
     font-size: 3.5rem; 
     padding: 2rem; 
   } 
@@ -221,6 +222,7 @@ select {
   input { 
     width: 90%; 
     max-width:90%;
+    justify-content: space-around;
     font-size: 3.5rem; 
     padding: 2rem; 
   } 
