@@ -171,8 +171,10 @@ select {
  
   .convert__Btn { 
     font-size: 4.5rem; 
-    padding: 2rem 15rem; 
-    justify-content: center; 
+    padding: 2rem 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   } 
 } 
  
@@ -229,9 +231,11 @@ select {
   } 
  
   .convert__Btn { 
-    width: 100%; 
-    justify-content: center; 
-    padding: 2rem 0; 
+    width: 100%;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 20.5rem; 
   } 
  
   .main-result { 
