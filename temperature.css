@@ -172,10 +172,10 @@ select {
   } 
  
   .convert__Btn { 
-    font-size: 4.5rem; 
-    display: grid; 
-    place-items: center; 
-    height: 100vh;
+    position: absolute; 
+    left: 50%; 
+    transform: translateX(-50%);
+    
   } 
 } 
  
@@ -236,9 +236,9 @@ select {
  
   .convert__Btn { 
     width: 100%;
-    display: grid; 
-    place-items: center; 
-    height: 100vh;
+    position: absolute; 
+    left: 50%; 
+    transform: translateX(-50%);
     
   } 
  
