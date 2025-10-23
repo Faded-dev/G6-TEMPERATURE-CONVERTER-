@@ -140,7 +140,7 @@
            }
       .container { width: 70%; 
                   padding: 3rem;
-                  max-height: 40%;
+                  min-height: 40%;
                   height: auto;
                  }
       .nav__header--icon { font-size: 10rem; 
@@ -154,7 +154,7 @@
     @media (max-width: 768px) {
       html { font-size: 55%; }
       .container { width: 85%;
-                  max-height: 40%;
+                  min-height: 40%;
                   height: auto;
                   border-radius: 35px; }
       .nav { flex-direction: column; text-align: center; }
