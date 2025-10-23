@@ -234,7 +234,7 @@ select {
   } 
  
   .convert__Btn { 
-    width: 100%;
+    width: 80%;
     position: absolute; 
     left: 50%; 
     transform: translateX(-50%);
@@ -292,9 +292,12 @@ select {
   } 
  
   .convert__Btn { 
-    width: 100%; 
+    width: 80%;
+    height:  
     font-size: 3.5rem; 
-    padding: 1.8rem 0; 
+    position: absolute; 
+    left: 50%; 
+    transform: translateX(-50%);
   } 
  
   .main-result { 
